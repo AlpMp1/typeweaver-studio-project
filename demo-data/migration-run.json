@@ -1,0 +1,19 @@
+{
+  "project": "TypeWeaver Studio",
+  "run_id": "migration_run_0317",
+  "repository": "commerce-dashboard-js",
+  "migration_target": "checkout/order DTO boundary",
+  "agents": [
+    "repository_architect",
+    "type_inference",
+    "migration_planner",
+    "coding",
+    "review"
+  ],
+  "results": {
+    "implicit_any_removed": 37,
+    "tests_added": 11,
+    "risk_level": "medium",
+    "status": "validated"
+  }
+}
